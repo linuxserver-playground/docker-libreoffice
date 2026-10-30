@@ -11,6 +11,11 @@ upstream:
     type: alpine_apk
     repo_url: http://dl-cdn.alpinelinux.org/alpine/v3.24/community/
     package: libreoffice
+  sponsor:
+  - name: Support LibreOffice
+    url: https://www.libreoffice.org/donate/
+  - name: LibreOffice via SPI (US tax-deductible)
+    url: https://www.spi-inc.org/donations/
 
 release:
   branch: master
